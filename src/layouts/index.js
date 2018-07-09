@@ -4,7 +4,7 @@ import Link from 'gatsby-link';
 export default ({ children, data }) => (
     <div style={{ margin: `3rem auto`, maxWidth: 650, padding: `0 1rem` }}>
         <Link to={'/'} style={{ textDecoration: 'none' }}>
-            <h1>{data.site.siteMetadata.title}</h1>
+            <h1 style={{margin: `0 0 1rem`}}>{data.site.siteMetadata.title}</h1>
         </Link>
         {children()}
     </div>

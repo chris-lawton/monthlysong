@@ -1,0 +1,8 @@
+html {
+    background: linear-gradient(-45deg, rgb(255, 95, 109), rgb(255, 195, 113)) 0% 0% / cover;
+    width: 100%;
+}
+
+a {
+    color: inherit;
+}
