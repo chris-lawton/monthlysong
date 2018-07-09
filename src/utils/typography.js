@@ -1,6 +1,6 @@
 import Typography from 'typography';
-import kirkhamTheme from 'typography-theme-kirkham'
+import sutroTheme from 'typography-theme-sutro'
 
-const typography = new Typography(kirkhamTheme);
+const typography = new Typography(sutroTheme);
 
 export default typography;
