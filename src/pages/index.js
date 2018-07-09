@@ -11,7 +11,6 @@ export default ({ data }) => {
                     <Link to={node.fields.slug} style={{textDecoration: `none`, color: `inherit`}} >
                         <h3 style={{margin: `0 0 1rem 0`}}>
                             {node.frontmatter.title}
-                            {' '}-{' '}
                             <span
                                 style={{ color: `rgba(255, 255, 255, 0.17)`, fontSize: `120px`, position: `absolute`, right: 0, top: `15px`}}>
                                 {node.frontmatter.date}
