@@ -1,5 +1,5 @@
 ---
-title: 'Everything Connected - Jon Hopkins'
+title: 'Jon Hopkins - Everything Connected'
 date: '2018-06-01'
 ---
 

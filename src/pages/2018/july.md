@@ -1,5 +1,5 @@
 ---
-title: 'Floating Beams - Pavel Dovgal'
+title: 'Pavel Dovgal - Floating Beams'
 date: '2018-07-01'
 ---
 
